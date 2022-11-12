@@ -1,0 +1,5 @@
+# Writing all output to: D:\Documentos\Baja\PROJETO V2\Placa frontal\Placa_frontal_V1.0.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
